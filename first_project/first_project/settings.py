@@ -27,7 +27,7 @@ SECRET_KEY = 'y*181s=2g08p-4_-dvnmh(=ad05p&z_z39n6)5%pm5moxy)qyf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://thomasbence.pythonanywhere.com']
 
 
 # Application definition
